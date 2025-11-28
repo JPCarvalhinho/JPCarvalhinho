@@ -12,3 +12,5 @@ Yesterday, you would create your html pages, and upload them via FTP. Today, you
 But I promise I won't give up. I will keep learning and improving my skills...
 
 Now, if I can just enable git commits from my desktop... I would call it  a day.
+
+And this is a new teste branch
